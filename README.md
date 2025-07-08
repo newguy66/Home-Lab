@@ -3,7 +3,7 @@
 ## Objective
 
 - Set up a home lab using VirtualBox and VMware
-- Created multiple VMs using Ubuntu, Kali, Windows 10 and Windows 11, as well as Windows Server
+- Created multiple VMs using Ubuntu, Kali, Windows 10 and Windows 11, as well as Windows and Ubuntu Servers
 - Created local Networks, VLANs, and Bridged connections based on need for various projects
 
   
